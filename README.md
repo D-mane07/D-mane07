@@ -1,9 +1,5 @@
 # Hi there, I’m Dhanyakumar Mane 👋  
 
-![Header](https://github.com/D-mane07/D-mane07/blob/main/assets/header.png)  
-
----
-
 ## 👨‍💻 About Me  
 
 - 🔭 Currently working on **Machine Learning, Deep Learning, NLP, and Data Science Projects**  
@@ -82,20 +78,3 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>  
   <a href="mailto:YOUR.EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>  
 </p>  
-
----
-
-## ⚡ GitHub Stats  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=D-mane07&show_icons=true&theme=tokyonight" alt="stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=D-mane07&theme=tokyonight" alt="streak" />  
-</p>  
-
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=D-mane07&theme=tokyonight&row=1&column=6" alt="trophies" />  
-</p>  
-
----
-
-![Footer](https://github.com/D-mane07/D-mane07/blob/main/assets/footer.png)  
